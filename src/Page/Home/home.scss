@@ -5,7 +5,6 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-image: url("../../static/images/SolarPanels7.png");
   background-color: white;
   background-size: cover;
   background-position: center center;
@@ -86,6 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 .featurette-image {
   color: grey;
   background-color: gray;
+  height: 300px;
 }
 
 .featurette-divider {

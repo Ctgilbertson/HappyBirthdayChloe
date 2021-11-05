@@ -7,6 +7,7 @@
   border-bottom: 1px solid lightgray;
   cursor: pointer;
   margin-bottom: 50px;
+  background-color: #87CEEB;
 }
 
 .flex{
@@ -36,4 +37,9 @@
 
 .panel{
   display:block;
+}
+
+.display-4{
+  font-size:30px;
+  margin-bottom:0;
 }

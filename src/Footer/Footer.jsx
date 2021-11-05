@@ -9,10 +9,7 @@ export default function Footer() {
   return (
     <footer>
       <Navbar.Brand href="#top" className="footer-brand" onClick={() => history.push("../#top")}>
-        <img
-          src={require("../../src/static/images/HeliosFull.png")}
-          height="30"
-          alt="" />
+        
       </Navbar.Brand>
       <Navbar className="footer-nav" bg="themed" expand="lg">
         <Nav className="m-auto">
