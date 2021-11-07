@@ -1,0 +1,45 @@
+.menu-items {
+  display: flex;
+  flex-direction: row;
+}
+
+.homeBar{
+  border-bottom: 1px solid lightgray;
+  cursor: pointer;
+  margin-bottom: 50px;
+  background-color: #87CEEB;
+}
+
+.flex{
+  display:flex;
+  justify-content:center;
+  background: #D82A2A;
+  padding-bottom:0px;
+}
+
+.gradient {
+  background: linear-gradient(to right, #FCB529, #D82A2A); 
+}
+
+.flex-item{
+  flex-grow: 1;
+  text-align: center;
+  display: block;
+  justify-content:center;
+  padding: 1rem 1rem;
+  list-style: none;
+  border: 1px solid black;
+}
+
+.flex-item:hover{
+  background-color: red;
+}
+
+.panel{
+  display:block;
+}
+
+.display-4{
+  font-size:30px;
+  margin-bottom:0;
+}
