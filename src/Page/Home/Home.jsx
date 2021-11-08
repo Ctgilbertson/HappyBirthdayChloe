@@ -36,7 +36,7 @@ export default function Home() {
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.JPEG")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
             </a>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default function Home() {
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.JPEG")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
             </a>
           </div>
         </div>
