@@ -439,5 +439,75 @@ export const photos = [
     width: 4,
     height: 3
   },
+  {
+    src:require("../../static/images/IMG_2738.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3388.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3416.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3424.jpg"),  
+    width: 4,
+    height: 5
+  },
+  {
+    src:require("../../static/images/IMG_3445.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3484.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3487.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3492.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3502.jpg"),  
+    width: 4,
+    height: 5
+  },
+  {
+    src:require("../../static/images/IMG_3524.jpg"),  
+    width: 4,
+    height: 5
+  },
+  {
+    src:require("../../static/images/IMG_3529.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3533.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3538.jpg"),  
+    width: 4,
+    height: 3
+  },
+  {
+    src:require("../../static/images/IMG_3730.jpg"),  
+    width: 4,
+    height: 5
+  }
   ];
   

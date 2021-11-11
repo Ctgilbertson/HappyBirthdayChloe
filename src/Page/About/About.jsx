@@ -22,7 +22,7 @@ export default function About() {
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("/RoadTrip")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2749.jpg")} fluid rounded/>
             </a>
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function About() {
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("/LA")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_3350.jpg")} fluid rounded/>
             </a>
           </div>
         </div>

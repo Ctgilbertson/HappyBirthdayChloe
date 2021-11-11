@@ -36,7 +36,7 @@ export default function Home() {
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2749.jpg")} fluid rounded/>
             </a>
           </div>
         </div>
@@ -45,12 +45,12 @@ export default function Home() {
 
         <div class="row featurette" onClick={() => history.push("/LA")}>
           <div class="col-md-7">
-            <h2 class="featurette-heading">Join Helios! <span class="text-muted">UW Org Fair!</span></h2>
-            <p class="lead">Come check out Helios virtually and learn what we are all about!</p>
+            <h2 class="featurette-heading">LA Baby <span class="text-muted">City of Stars</span></h2>
+            <p class="lead">Sandy Beaches and Strange Star Wars Bars</p>
           </div>
           <div class="col-md-5">
           <a onClick={() => history.push("")}>
-            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_2558.jpg")} fluid rounded/>
+            <Image className="featurette-image mx-auto" src={require("../../static/images/IMG_3350.jpg")} fluid rounded/>
             </a>
           </div>
         </div>
